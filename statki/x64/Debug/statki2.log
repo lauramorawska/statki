@@ -1,4 +1,0 @@
-﻿  statki2.c
-C:\Users\Laura Morawska\Desktop\studia\Programowanie komputerów\statki2\statki2.c(253,29): warning C4020: "displayBoard": zbyt wiele parametrów rzeczywistych
-C:\Users\Laura Morawska\Desktop\studia\Programowanie komputerów\statki2\statki2.c(296,8): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  statki2.vcxproj -> C:\Users\Laura Morawska\Desktop\studia\Programowanie komputerów\statki2\x64\Debug\statki2.exe
